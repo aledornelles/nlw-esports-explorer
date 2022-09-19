@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar](https://github.com/Alegit1/nlw-esports-explorer)
+[Clique aqui para acessar](https://alegit1.github.io/nlw-esports-explorer/)
 
 ## 💻Tecnologias
 
